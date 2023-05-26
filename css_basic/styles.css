@@ -17,4 +17,6 @@ main article {
 main aside {
     flex: 1;
     overflow-y: auto;
+    background-color: skyblue;
+    background-image: none;
 }
