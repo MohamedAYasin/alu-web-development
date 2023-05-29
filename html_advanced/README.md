@@ -1,6 +1,6 @@
 # HTML Advanced
 
-![Project Image](https://github.com/MohamedAYasin/alu-web-development/blob/main/html_advanced/figma.jpg)
+![Project Image](https://github.com/MohamedAYasin/alu-web-development/blob/master/html_advanced/figma.jpg)
 
 ##Description
 
