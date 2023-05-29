@@ -1,8 +1,8 @@
-# HTML Advanced
+## Advanced HTML
 
 ![Project Image](https://github.com/MohamedAYasin/alu-web-development/blob/master/html_advanced/figma.jpg)
 
-##Description
+## Description
 
 This project aims to implement a webpage from a designer file using pure HTML semantic.
 
